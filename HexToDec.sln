@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexToDec", "HexToDec\HexToDec.csproj", "{CC732527-DC9B-4956-8174-5DB9BB9DEC59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationItems", "CalculationItems\CalculationItems.csproj", "{48A0D08B-5254-4CA1-815B-D5FD945EAA1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC732527-DC9B-4956-8174-5DB9BB9DEC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC732527-DC9B-4956-8174-5DB9BB9DEC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC732527-DC9B-4956-8174-5DB9BB9DEC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC732527-DC9B-4956-8174-5DB9BB9DEC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A0D08B-5254-4CA1-815B-D5FD945EAA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A0D08B-5254-4CA1-815B-D5FD945EAA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A0D08B-5254-4CA1-815B-D5FD945EAA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A0D08B-5254-4CA1-815B-D5FD945EAA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CFEA334-DE07-40C6-B01F-271FF0D7E5B3}
+	EndGlobalSection
+EndGlobal
