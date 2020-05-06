@@ -24,7 +24,7 @@ namespace HexToDec
         public string[] populateInputArray()
         {
             string rawInput = inputTextBox.Text;
-            // check for hex elements only
+            // check for hex elements only  
             
             string[] splitInput = rawInput.Split(' ');
             return splitInput;
@@ -50,7 +50,7 @@ namespace HexToDec
                 //check for clean hex inputs
                 if (HexInStringCStyle(item) || HexInStringNormal(item))
                 {
-                    int answer = Convert.ToInt32(item, 16);
+                    int answer = Convert.ToInt16(item, 16);
                     outputTextBox.AppendText(answer + " ");
                 }
                 else
