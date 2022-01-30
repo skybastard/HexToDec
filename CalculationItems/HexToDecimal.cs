@@ -7,6 +7,6 @@ namespace CalculationItems
     public class HexToDecimal
     {
         // no use yet
-        // Comment for merging test, but now has changed
+        // Comment for merging test, but now has changed, more stuff
     }
 }
