@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using CalculationItems;
-
+// Comment for merging test
 namespace HexToDec
 {
     public partial class Form1 : Form
